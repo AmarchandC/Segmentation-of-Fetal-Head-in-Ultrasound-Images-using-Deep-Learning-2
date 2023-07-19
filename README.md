@@ -2,6 +2,23 @@
 Segmentation of Fetal Head in Ultrasound Images using Deep Learning
 
 
+
+
+
+
+![image](https://github.com/AmarchandC/Segmentation-of-Fetal-Head-in-Ultrasound-Images-using-Deep-Learning-2/assets/82858194/2195dcc7-cfe4-49cb-9654-e6065e1763af)
+
+
+
+
+![image](https://github.com/AmarchandC/Segmentation-of-Fetal-Head-in-Ultrasound-Images-using-Deep-Learning-2/assets/82858194/3a027ea1-bf27-47b4-beb1-80ab301192eb)
+
+
+
+
+
+
+
 Dataset Preparation:
 Downloaded the training_set.zip and test_set.zip files from the provided website.
 Extracted the training_set and test_set folders, containing ultrasound images and corresponding annotations.
